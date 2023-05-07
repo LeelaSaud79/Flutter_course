@@ -19,7 +19,7 @@ void main() {
   Point p4 = const Point(2, 2);
   print("The p4 hash code is: ${p4.hashCode}");
 
-  /// Hash code is likely a labell you put in the package so you
+  /// [Hash code] is likely a labell you put in the package so you
   ///can find it easily when you need it a unique number
   ///that is used to find when needed.
 }

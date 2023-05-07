@@ -24,8 +24,6 @@ class Employee {
 void main() {
   Employee emp = new Employee();
   emp.setId(1);
-  emp.setName("Leela");
-  emp.setId(2);
   emp.setName("Namrata");
 
   print("Id: ${emp.getId()}");
